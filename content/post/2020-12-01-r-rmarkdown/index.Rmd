@@ -13,11 +13,11 @@ Agendar pelo e-mail cardoso.ma1002@gmail.com.
 
 # Listas de Exercícios
 
-## Listas
+### Listas
 
 - Lista 1
 
-## Gabaritos
+### Gabaritos
 
 - Gabarito Lista 1
 
@@ -59,18 +59,33 @@ Agendar pelo e-mail cardoso.ma1002@gmail.com.
 
 # Material para aprender R
 
+O R será uma ferramenta importante durante a elaboração do trabalho final. Recomendo seu uso pois, além de ser gratuito, possui um grande número de pacotes feitos para a análise de dados e para a econometria. O que é feito no R pode também ser feito nos outros softwares; porém, por ser a ferramenta que eu uso, é a que melhor posso ajudar.
+
+Abaixo, está reunido o melhor do material que conheço, ordenado desde o nível introdutório até assuntos mais específicos.
+
 - [Livro Curso-R](https://livro.curso-r.com/) - Curso-R
 
 - [R for Data Science](https://r4ds.had.co.nz/) -  Hadley Wickham and Garrett Grolemund
+
 - [A very short introduction to Tidyverse](https://dominicroye.github.io/en/2020/a-very-short-introduction-to-tidyverse/) - Dominic Royé
 
-- [Análise de microdados da PNAD Contínua](https://rpubs.com/BragaDouglas/335574) - Douglas Braga
+- [R: Uma Introdução para economistas](https://danmrc.github.io/R-para-Economistas/) - Daniel Coutinho
 
 - [Ciência de dados econômicos](https://tidyeconomics.netlify.app/) - Felipe O. Gonçalves
 
-- [Importando e Manipulando Dados Financeiros no R](http://wilsonfreitas.github.io/slides/ser-maio-2018/index.html#1) - Wilson Freitas
+Outra vantagem do R é a existência de pacotes feitos para lidar diretamente com dados brasileiros. Abaixo cito alguns:
 
-- [R: Uma Introdução para economistas](https://danmrc.github.io/R-para-Economistas/) - Daniel Coutinho
+- Pacotes para dados financeiros: [Importando e Manipulando Dados Financeiros no R](http://wilsonfreitas.github.io/slides/ser-maio-2018/index.html#1) - Wilson Freitas
+
+- PNAD Contínua: [Análise de microdados da PNAD Contínua](https://rpubs.com/BragaDouglas/335574) - Douglas Braga
+
+- Pacote [Brazilian Economic Time Series (BETS)](http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/18172/Brazilian_Economic_Time_Series_BETS_R_package.pdf?sequence=1&isAllowed=y) - Pedro Costa Ferreira, Talitha Speranza e Jonatha Costa
+
+- Pacote [`geobr`](https://cran.r-project.org/web/packages/geobr/vignettes/intro_to_geobr.html) - Rafael H. M. Pereira e Caio Nogueira Goncalves
+
+- Um [exemplo](http://regisely.com/blog/mercado-de-trabalho-covid/) do uso dos dados da PNAD Covid - Régis Ely
+
+
 
 
 
