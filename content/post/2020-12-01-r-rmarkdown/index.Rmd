@@ -81,9 +81,11 @@ Outra vantagem do R é a existência de pacotes feitos para lidar diretamente co
 
 - Pacote [Brazilian Economic Time Series (BETS)](http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/18172/Brazilian_Economic_Time_Series_BETS_R_package.pdf?sequence=1&isAllowed=y) - Pedro Costa Ferreira, Talitha Speranza e Jonatha Costa
 
-- Pacote [`geobr`](https://cran.r-project.org/web/packages/geobr/vignettes/intro_to_geobr.html) - Rafael H. M. Pereira e Caio Nogueira Goncalves
+- Pacote [geobr](https://cran.r-project.org/web/packages/geobr/vignettes/intro_to_geobr.html) - Rafael H. M. Pereira e Caio Nogueira Goncalves
 
 - Um [exemplo](http://regisely.com/blog/mercado-de-trabalho-covid/) do uso dos dados da PNAD Covid - Régis Ely
+
+- Base dos Dados Mais (BD+): um repositório integrado de dados organizados e disponíveis na nuvem dentro da ferramenta BigQuery, da Google. Com algumas linhas de código, bases de dados que levariam dias para baixar e tratar podem ser acessadas dentro de alguns minutos. As bases disponíveis podem ser vistas neste [link](https://basedosdados.org/dataset/?download_type=BD+Mais); e neste [vídeo](https://www.youtube.com/watch?v=5_Ir8neyFf4&t=626s) mostra-se como utilizar a BD+ no R.   
 
 
 
