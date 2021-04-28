@@ -15,11 +15,11 @@ Agendar pelo e-mail cardoso.ma1002@gmail.com.
 
 ### Listas
 
-- [Lista 1](pdfs/lista1.pdf) 
+- [Lista 1](lista1.pdf) 
 
 ### Gabaritos
 
-- [Gabarito Lista 1](pdfs/gabarito1.pdf)
+- [Gabarito Lista 1](gabarito1.pdf)
 
 # Livros
 
@@ -29,11 +29,11 @@ Agendar pelo e-mail cardoso.ma1002@gmail.com.
 
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/index.html) - Scott Cunningham
 
-- [Guia Brasileiro de Análise de Dados](pdfs/guiabr.pdf) - Claudio D. Shikida, Leonardo Monasterio e Pedro Fernando Nery (eds.)
+- [Guia Brasileiro de Análise de Dados](guiabr.pdf) - Claudio D. Shikida, Leonardo Monasterio e Pedro Fernando Nery (eds.)
 
-- [Mastering Metrics: The Path from Cause to Effect](pdfs/masterinmetrics.pdf) - Joshua D. Angrist and Jörn-Steffen Pischke
+- [Mastering Metrics: The Path from Cause to Effect](masterinmetrics.pdf) - Joshua D. Angrist and Jörn-Steffen Pischke
 
-- [Mostly Harmeless Econometrics](pdfs/mostlyharm.pdf) - Joshua D. Angrist and Jörn-Steffen Pischke
+- [Mostly Harmeless Econometrics](mostlyharm.pdf) - Joshua D. Angrist and Jörn-Steffen Pischke
 
 - [The Efect: An Introduction to Research Design and Causality](https://www.nickchk.com/book/The_Effect_DRAFT_DO_NOT_REHOST.pdf) - Nick Huntington-Klein
  
