@@ -1,9 +1,9 @@
 ---
-title: "Monitoria de Econometria I UFSM"
+title: "Monitoria de Econometria I UFSM (2021/1)"
 author: "Mateus Cardoso"
 ---
 
-Este site é um repositório onde será guardado todo o material utilizado na monitoria.
+Este site é um repositório onde será guardado todo o material utilizado na monitoria, além de materiais complementares para quem deseja aprofundar os estudos.
 
 # Horários
 
@@ -67,7 +67,7 @@ Agendar pelo e-mail cardoso.ma1002@gmail.com.
 
 O R será uma ferramenta importante durante a elaboração do trabalho final. Recomendo seu uso pois, além de ser gratuito, possui um grande número de pacotes feitos para a análise de dados e para a econometria. O que é feito no R pode também ser feito nos outros softwares; porém, por ser a ferramenta que eu uso, é a que melhor posso ajudar.
 
-Abaixo, está reunido o melhor do material que conheço, ordenado desde o nível introdutório até assuntos mais específicos.
+Abaixo, está reunido um pouco de material, ordenado desde o nível introdutório até assuntos mais específicos.
 
 - [Livro Curso-R](https://livro.curso-r.com/) - Curso-R
 
@@ -95,13 +95,25 @@ Outra vantagem do R é a existência de pacotes feitos para lidar diretamente co
 
 - Um [exemplo](http://regisely.com/blog/mercado-de-trabalho-covid/) do uso dos dados da PNAD Covid - Régis Ely
 
-- Base dos Dados Mais (BD+): um repositório integrado de dados organizados e disponíveis na nuvem dentro da ferramenta BigQuery, da Google. Com algumas linhas de código, bases de dados que levariam dias para baixar e tratar podem ser acessadas dentro de alguns minutos. As bases disponíveis podem ser vistas neste [link](https://basedosdados.org/dataset/?download_type=BD+Mais); e neste [vídeo](https://www.youtube.com/watch?v=5_Ir8neyFf4&t=626s) mostra-se como utilizar a BD+ no R. - João Carabetta, Ricardo Dahis, Fred Israel e Fernanda  Scovino 
-
+- Base dos Dados Mais (BD+): um repositório integrado de dados organizados e disponíveis na nuvem dentro da ferramenta BigQuery, da Google. Com algumas linhas de código, bases de dados que levariam dias para baixar e tratar podem ser acessadas dentro de alguns minutos.  - João Carabetta, Ricardo Dahis, Fred Israel e Fernanda  Scovino 
+  - As bases disponíveis podem ser vistas neste [link](https://basedosdados.org/dataset/?download_type=BD+Mais) 
+  - Neste [vídeo](https://www.youtube.com/watch?v=5_Ir8neyFf4&t=626s) mostra-se como utilizar a BD+ no R.
+  - Há também um pacote no R (posterior ao vídeo) para acessar as bases de dados. Tutoriais podem ser encontrados neste [artigo](https://dev.to/basedosdados/como-usar-a-biblioteca-basedosdados-no-r-capitulo-1-46kb) e neste [vídeo](https://www.youtube.com/watch?v=M9ayiseIjvI&t=5s).
+  
 # Material para aprender Python
 
 - [Learn Python](https://www.learnpython.org/)
+
 - [Using Python for Introductory Econometrics](http://www.upfie.net/read/index.html) - Florian Heiss and Daniel Brunner
+
 - [Mini Curso de Python](https://estatsite.com.br/mini-curso-de-python-gratuito/) - Estatsite
 
+# Visualização de dados
+
+- [Fundamentals of Data Visualization](post/2020-12-01-r-rmarkdown/pdf/fundamentalsdataviz.pdf) - Claus O. Wilke
+
+- [An Economist’s Guide to Visualizing Data](post/2020-12-01-r-rmarkdown/pdf/schwabish2014.pdf) - Jonathan A. Schwabish
+
+- [The pie chart](https://dominicroye.github.io/en/2018/the-pie-chart/) - Dominic Royé
 
 
