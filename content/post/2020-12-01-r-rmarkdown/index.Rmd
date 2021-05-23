@@ -1,0 +1,119 @@
+---
+title: "Monitoria de Econometria I UFSM (2021/1)"
+author: "Mateus Cardoso"
+---
+
+Este site é um repositório onde será guardado todo o material utilizado na monitoria, além de materiais complementares para quem deseja aprofundar os estudos.
+
+# Horários
+
+De segunda à sexta das 19:30 às 21:30 e sábado das 14:30 às 16:30.
+
+Agendar pelo e-mail cardoso.ma1002@gmail.com.
+
+# Listas de Exercícios
+
+### Listas
+
+- [Lista 1](post/2020-12-01-r-rmarkdown/pdf/lista1.pdf) 
+- [Lista 2](post/2020-12-01-r-rmarkdown/pdf/lista2.pdf)
+
+### Gabaritos
+
+- [Gabarito Lista 1](post/2020-12-01-r-rmarkdown/pdf/gabarito1.pdf)
+- [Solução da Lista 1 em Python](https://colab.research.google.com/drive/1zctZQT-S1ZlcUapYiXq6uuASKJI44sGi?usp=sharing)
+- [Gabarito Lista 2](post/2020-12-01-r-rmarkdown/pdf/gabarito2.pdf)
+- [Solução da Lista 2 em Python](https://colab.research.google.com/drive/1fh2f6SoevU2Uuxb-T_0kYF_GF-2g7RuM?usp=sharing)
+
+# Livros
+
+- [Avaliação econômica de projetos sociais](https://www.itausocial.org.br/wp-content/uploads/2018/05/avaliacao-economica-3a-ed_1513188151.pdf) - Naercio Aquino Menezes Filho e Cristine Campos de Xavier Pinto (orgs.)
+
+- [Avaliação de Impacto na Prática](https://openknowledge.worldbank.org/bitstream/handle/10986/25030/9781464808890.pdf) - Banco Mundial
+
+- [Causal Inference: The Mixtape](https://mixtape.scunning.com/index.html) - Scott Cunningham
+
+- [Guia Brasileiro de Análise de Dados](post/2020-12-01-r-rmarkdown/pdf/guiabr.pdf) - Claudio D. Shikida, Leonardo Monasterio e Pedro Fernando Nery (eds.)
+
+- [Mastering Metrics: The Path from Cause to Effect](post/2020-12-01-r-rmarkdown/pdf/masterinmetrics.pdf) - Joshua D. Angrist and Jörn-Steffen Pischke
+
+- [Mostly Harmeless Econometrics](post/2020-12-01-r-rmarkdown/pdf/mostlyharm.pdf) - Joshua D. Angrist and Jörn-Steffen Pischke
+
+- [The Efect: An Introduction to Research Design and Causality](https://www.nickchk.com/book/The_Effect_DRAFT_DO_NOT_REHOST.pdf) - Nick Huntington-Klein
+ 
+# Artigos
+
+- [How to do Empirical Economics](http://www.crest.fr/ckfinder/userfiles/files/Pageperso/kramarz/v30i2a1.pdf) - Kramarz (editor)
+
+# Vídeos
+
+- Playlist [Econometria](https://www.youtube.com/playlist?list=PLxafIQjs0M97dPDvvFdsD4I6yn4qj_2ja) - Estudar com Você
+
+- Playlist [Econometrics](https://www.youtube.com/playlist?list=PLcTBLulJV_ALLS7R_e7ig0aEcBrtp6B18) - Nick Huntington-Klein
+
+- Playlist [Causality](https://www.youtube.com/playlist?list=PLcTBLulJV_AKmUTH-nUsxxFyRQoWnUzxU) - Nick Huntington-Klein
+
+- Playlist [R for Economists](https://www.youtube.com/playlist?list=PLcTBLulJV_AIuXCxr__V8XAzWZosMQIfW) - Nick Huntington-Klein
+
+- Playlist [Orientação de Pesquisa](https://www.youtube.com/playlist?list=PL5zwgb1bvX2Jz4CZUTgaeAAIF5FoMV_3F) - Thomas Conti
+
+- Playlist [Mastering Econometrics with Joshua Angrist](https://www.youtube.com/playlist?list=PL-uRhZ_p-BM5ovNRg-G6hDib27OCvcyW8) - Marginal Revolution University
+
+# Cursos
+
+- [Avaliação de Impacto de Programas e Políticas Sociais](https://www.escolavirtual.gov.br/curso/98)
+
+# Material para aprender R
+
+O R será uma ferramenta importante durante a elaboração do trabalho final. Recomendo seu uso pois, além de ser gratuito, possui um grande número de pacotes feitos para a análise de dados e para a econometria. O que é feito no R pode também ser feito nos outros softwares; porém, por ser a ferramenta que eu uso, é a que melhor posso ajudar.
+
+Abaixo, está reunido um pouco de material, ordenado desde o nível introdutório até assuntos mais específicos.
+
+- [Livro Curso-R](https://livro.curso-r.com/) - Curso-R
+
+- [R for Data Science](https://r4ds.had.co.nz/) -  Hadley Wickham and Garrett Grolemund
+
+- [A very short introduction to Tidyverse](https://dominicroye.github.io/en/2020/a-very-short-introduction-to-tidyverse/) - Dominic Royé
+
+- [R: Uma Introdução para economistas](https://danmrc.github.io/R-para-Economistas/) - Daniel Coutinho
+
+- [Ciência de dados econômicos](https://tidyeconomics.netlify.app/) - Felipe O. Gonçalves
+
+Outra vantagem do R é a existência de pacotes feitos para lidar diretamente com dados brasileiros. Abaixo cito alguns:
+
+- Pacotes para dados financeiros: [Importando e Manipulando Dados Financeiros no R](http://wilsonfreitas.github.io/slides/ser-maio-2018/index.html#1) - Wilson Freitas
+
+- PNAD Contínua: [Análise de microdados da PNAD Contínua](https://rpubs.com/BragaDouglas/335574) - Douglas Braga
+
+- Pacote [Brazilian Economic Time Series (BETS)](http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/18172/Brazilian_Economic_Time_Series_BETS_R_package.pdf?sequence=1&isAllowed=y) - Pedro Costa Ferreira, Talitha Speranza e Jonatha Costa
+
+- Pacote [deflateBR](https://fmeireles.com/blog/rstats/deflacionar-series-no-r-deflatebr/): deflcionar séries nominais com os principais índices de preços brasileiros. - Fernando Meirelles
+
+- Pacote [electionsBR](http://electionsbr.com/): dados eleitorais brasileiros - Denisson Silva, Fernando Meireles e Beatriz Costa
+
+- Pacote [geobr](https://cran.r-project.org/web/packages/geobr/vignettes/intro_to_geobr.html): mapas e outros dados espaciais brasileiros - Rafael H. M. Pereira e Caio Nogueira Goncalves
+
+- Um [exemplo](http://regisely.com/blog/mercado-de-trabalho-covid/) do uso dos dados da PNAD Covid - Régis Ely
+
+- Base dos Dados Mais (BD+): um repositório integrado de dados organizados e disponíveis na nuvem dentro da ferramenta BigQuery, da Google. Com algumas linhas de código, bases de dados que levariam dias para baixar e tratar podem ser acessadas dentro de alguns minutos.  - João Carabetta, Ricardo Dahis, Fred Israel e Fernanda  Scovino 
+  - As bases disponíveis podem ser vistas neste [link](https://basedosdados.org/dataset/?download_type=BD+Mais) 
+  - Neste [vídeo](https://www.youtube.com/watch?v=5_Ir8neyFf4&t=626s) mostra-se como utilizar a BD+ no R.
+  - Há também um pacote no R (posterior ao vídeo) para acessar as bases de dados. Tutoriais podem ser encontrados neste [artigo](https://dev.to/basedosdados/como-usar-a-biblioteca-basedosdados-no-r-capitulo-1-46kb) e neste [vídeo](https://www.youtube.com/watch?v=M9ayiseIjvI&t=5s).
+  
+# Material para aprender Python
+
+- [Learn Python](https://www.learnpython.org/)
+
+- [Using Python for Introductory Econometrics](http://www.upfie.net/read/index.html) - Florian Heiss and Daniel Brunner
+
+- [Mini Curso de Python](https://estatsite.com.br/mini-curso-de-python-gratuito/) - Estatsite
+
+# Visualização de dados
+
+- [Fundamentals of Data Visualization](post/2020-12-01-r-rmarkdown/pdf/fundamentalsdataviz.pdf) - Claus O. Wilke
+
+- [An Economist’s Guide to Visualizing Data](post/2020-12-01-r-rmarkdown/pdf/schwabish2014.pdf) - Jonathan A. Schwabish
+
+- [The pie chart](https://dominicroye.github.io/en/2018/the-pie-chart/) - Dominic Royé
+
+
