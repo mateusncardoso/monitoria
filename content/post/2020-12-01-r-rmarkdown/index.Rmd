@@ -39,7 +39,7 @@ Agendar pelo e-mail cardoso.ma1002@gmail.com.
 
 - [Mostly Harmeless Econometrics](post/2020-12-01-r-rmarkdown/pdf/mostlyharm.pdf) - Joshua D. Angrist and Jörn-Steffen Pischke
 
-- [The Efect: An Introduction to Research Design and Causality](https://www.nickchk.com/book/The_Effect_DRAFT_DO_NOT_REHOST.pdf) - Nick Huntington-Klein
+- [The Efect: An Introduction to Research Design and Causality](post/2020-12-01-r-rmarkdown/pdf/the_effect.pdf) - Nick Huntington-Klein
  
 # Artigos
 
