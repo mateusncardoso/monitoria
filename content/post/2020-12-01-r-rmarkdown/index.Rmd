@@ -26,7 +26,7 @@ Agendar pelo e-mail cardoso.ma1002@gmail.com.
 - [Gabarito Lista 2](post/2020-12-01-r-rmarkdown/pdf/gabarito2.pdf)
 - [Solução da Lista 2 em Python](https://colab.research.google.com/drive/1fh2f6SoevU2Uuxb-T_0kYF_GF-2g7RuM?usp=sharing)
 - [Gabarito Lista 3](post/2020-12-01-r-rmarkdown/pdf/gabarito3.pdf)
-- Gabarito da Lista 4 em breve.
+- [Gabarito Lista 4](post/2020-12-01-r-rmarkdown/pdf/gabarito4.pdf)
 
 
 # Livros
