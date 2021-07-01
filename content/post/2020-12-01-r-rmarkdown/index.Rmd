@@ -71,7 +71,7 @@ Agendar pelo e-mail cardoso.ma1002@gmail.com.
 
 O R será uma ferramenta importante durante a elaboração do trabalho final. Recomendo seu uso pois, além de ser gratuito, possui um grande número de pacotes feitos para a análise de dados e para a econometria. O que é feito no R pode também ser feito nos outros softwares; porém, por ser a ferramenta que eu uso, é a que melhor posso ajudar.
 
-Abaixo, está reunido um pouco de material, ordenado desde o nível introdutório até assuntos mais específicos.
+Abaixo, estão reunidos alguns materiais, ordenado desde o nível introdutório até assuntos mais específicos.
 
 - [Livro Curso-R](https://livro.curso-r.com/) - Curso-R
 
